@@ -21,5 +21,6 @@ export default defineConfig({
     },
     baseUrl: 'http://automationpractice.com/index.php',
     specPattern: 'cypress/e2e/tests/**/*.test.ts',
+    
   },
 })
